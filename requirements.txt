@@ -1,0 +1,9 @@
+torch
+transformers
+huggingface_hub
+pandas
+soundfile
+librosa
+scikit-learn
+gradio
+pytest

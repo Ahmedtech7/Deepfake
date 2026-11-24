@@ -1,0 +1,37 @@
+{
+  "seen_generators_clean": {
+    "eer": 0.0,
+    "auc": 1.0,
+    "n": 415
+  },
+  "seen_generators_phone": {
+    "eer": 0.0,
+    "auc": 1.0,
+    "n": 415
+  },
+  "unseen_clone_clean": {
+    "eer": 0.24058823529411766,
+    "auc": 0.8501176470588235,
+    "n": 245
+  },
+  "phone_trained_phone": {
+    "eer": 0.0,
+    "auc": 1.0,
+    "n": 415
+  },
+  "phone_trained_clean": {
+    "eer": 0.0,
+    "auc": 1.0,
+    "n": 415
+  },
+  "zero_shot_clean": {
+    "eer": 0.6049819927971188,
+    "auc": 0.43013205282112843,
+    "n": 415
+  },
+  "zero_shot_phone": {
+    "eer": 0.5859543817527011,
+    "auc": 0.4904081632653061,
+    "n": 415
+  }
+}

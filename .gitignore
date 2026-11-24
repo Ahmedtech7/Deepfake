@@ -1,0 +1,10 @@
+# Audio stays local: real speakers and voice clones of them are never published.
+data/
+demo/examples/
+results/*.wav
+results/*.npz
+results/*.log
+models/
+.venv*/
+__pycache__/
+.pytest_cache/
