@@ -1,4 +1,4 @@
-# Arabic Deepfake Voice Detector
+# Deepfake: Arabic Voice Detector
 
 Detects AI-generated Arabic speech, including voice clones delivered as
 WhatsApp-quality audio, and measures how an off-the-shelf English-trained
@@ -40,6 +40,8 @@ has never seen lowers accuracy (last row). Shuffling the training labels drops
 the detector to chance, which rules out leakage in the evaluation.
 
 ## Run
+
+Needs Python 3.11+ and `ffmpeg`. `pip install -r requirements.txt`
 
 ```bash
 python -m deepfake.real_data      # real clips

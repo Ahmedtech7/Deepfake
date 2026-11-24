@@ -5,5 +5,7 @@ pandas
 soundfile
 librosa
 scikit-learn
-gradio
+fastapi
+uvicorn
+python-multipart
 pytest
